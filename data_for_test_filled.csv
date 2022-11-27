@@ -1,0 +1,262 @@
+A_Index;AnzahlZimmer;Ausbaustufe;Baeder;BaederKG;Baujahr;EG_qm;Garage_qm;Garagen;Gesamteindruck;Keller_Typ_qm;Keller_qm;Kellerhoehe;Kellertyp;Lage;OG_qm;Umgebaut;Verkaufsjahr;Verkaufsmonat;Wohnflaeche_qm;Z_Verkaufspreis
+358;3;1 Ebene;2;0;1996;104;43;2;4;56;104;Gut;Kein Wohnraum;Bezirk 27;0;1996;2020;6;104;179930
+1153;3;2 Ebenen;2;0;1948;90;48;2;4;0;78;Durchschnitt;Rohbau;Bezirk 4;40;1962;2021;4;130;155765
+987;2;1 Ebene;1;1;1995;75;42;2;4;63;71;Gut;Mittlerer Wohnraum;Bezirk 23;0;1995;2019;12;75;149360
+214;3;2 Ebenen;3;0;2015;68;33;2;3;0;66;Gut;Rohbau;Bezirk 9;59;2015;2018;7;128;178911
+1131;2;1 Ebene;1;0;1970;68;26;1;5;12;68;Durchschnitt;Kein Wohnraum;Bezirk 4;0;2012;2019;7;68;133323
+1266;3;1 Ebene;1;0;1987;74;37;2;4;28;73;Durchschnitt;Kein Wohnraum;Bezirk 6;0;1987;2019;9;74;144120
+518;4;2 Ebenen;3;0;1977;76;41;2;4;38;73;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;78;2000;2020;5;154;184339
+86;3;1 Ebene;1;0;1970;103;25;1;4;49;103;Durchschnitt;Freizeitraum;Bezirk 15;0;2010;2021;6;103;154757
+1642;2;1 Ebene;2;1;1987;89;37;2;3;36;89;Gut;Mittlerer Wohnraum;Bezirk 17;0;1987;2021;8;89;147066
+476;2;1 Ebene;1;1;1964;85;23;1;4;55;85;Durchschnitt;Guter Wohnraum;Bezirk 15;0;2015;2018;1;85;138212
+2058;2;1 Ebene;2;1;2009;101;33;2;3;73;101;Sehr gut;Guter Wohnraum;Bezirk 14;0;2009;2020;4;101;169748
+64;3;2 Ebenen;2;0;1922;73;22;1;1;0;65;Durchschnitt;Rohbau;Bezirk 12;42;1962;2019;9;126;119977
+296;2;1 Ebene;2;1;2015;119;40;2;3;85;119;Gut;Guter Wohnraum;Bezirk 18;0;2015;2019;3;119;200500
+1054;3;1 Ebene;2;0;1990;88;0;0;3;52;88;Gut;Freizeitraum;Bezirk 6;0;1990;2021;8;88;120745
+287;2;1 Ebene;1;1;1975;82;53;2;4;53;82;Durchschnitt;Guter Wohnraum;Bezirk 22;0;1975;2019;7;82;134315
+1424;3;2 Ebenen;3;0;2020;66;57;2;3;0;65;Gut;Rohbau;Bezirk 24;68;2020;2021;6;135;234851
+13;3;1 Ebene;2;0;1969;105;28;1;4;66;105;Durchschnitt;Freizeitraum;Bezirk 15;0;1969;2019;5;105;146867
+440;3;2 Ebenen;3;1;1986;128;44;2;4;10;101;Durchschnitt;Niedrige Qualität;Bezirk 27;55;2015;2019;7;184;241915
+508;3;2 Ebenen;3;1;2015;59;33;2;3;41;59;Gut;Guter Wohnraum;Bezirk 9;54;2015;2021;5;114;174969
+1742;4;2 Ebenen;3;0;1980;100;43;1;4;38;76;Gut;Freizeitraum;Bezirk 15;81;1980;2021;6;182;196597
+171;2;1 Ebene;2;0;2015;132;35;2;3;0;116;Gut;Rohbau;Bezirk 1;0;2016;2018;10;132;203735
+399;2;1 Ebene;2;0;1961;88;35;2;3;0;0;0;0;Bezirk 15;0;1962;2021;6;88;97849
+355;3;1 Ebene;1;1;1973;75;20;1;4;16;78;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;1973;2019;2;75;126194
+933;3;2 Ebenen;3;1;2012;86;33;2;3;59;84;Gut;Guter Wohnraum;Bezirk 9;87;2012;2021;7;174;231667
+759;3;1 Ebene;1;1;1976;92;42;2;4;66;92;Gut;Freizeitraum;Bezirk 15;0;1976;2020;7;92;143680
+852;3;2 Ebenen;3;0;2018;79;54;2;3;0;79;Gut;Rohbau;Bezirk 6;72;2018;2019;4;152;238452
+747;1;1 Ebene;1;1;1975;85;48;2;4;8;85;Gut;Freizeitraum;Bezirk 5;0;1975;2018;4;85;142175
+438;3;1 Ebene;1;1;1982;73;48;2;4;61;73;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;1982;2021;9;73;128302
+866;2;2 Ebenen;2;0;1985;41;22;1;3;26;41;Durchschnitt;Kein Wohnraum;Bezirk 3;42;1985;2018;6;83;100650
+1064;1;1 Ebene;1;1;1992;104;41;2;3;68;104;Gut;Guter Wohnraum;Bezirk 10;0;1992;2018;7;104;179309
+525;2;1 Ebene;2;1;1991;110;41;2;4;85;85;Gut;Guter Wohnraum;Bezirk 14;0;1991;2019;1;110;168338
+300;2;2 Ebenen;1;1;1960;91;20;1;3;28;57;Durchschnitt;Kein Wohnraum;Bezirk 4;18;2013;2020;1;109;130797
+1987;2;2 Ebenen;1;0;1932;61;34;2;1;0;61;Schlecht;Rohbau;Bezirk 20;30;1962;2020;11;92;105198
+1923;3;1 Ebene;1;1;1975;90;22;1;5;56;90;Durchschnitt;Guter Wohnraum;Bezirk 22;0;2015;2018;2;90;146820
+2163;3;2 Ebenen;3;1;2017;89;62;2;3;46;89;Gut;Guter Wohnraum;Bezirk 18;71;2017;2018;6;161;266359
+2116;2;1 Ebene;1;0;1971;73;25;1;4;52;73;Durchschnitt;Freizeitraum;Bezirk 15;0;1971;2021;10;73;123035
+1379;3;2 Ebenen;2;1;1961;83;25;1;4;26;90;Durchschnitt;Kein Wohnraum;Bezirk 7;45;2017;2021;10;129;168085
+1589;2;1 Ebene;2;1;2016;160;56;3;3;113;160;Sehr gut;Guter Wohnraum;Bezirk 25;0;2016;2020;9;160;316140
+2289;2;1 Ebene;2;2;2016;139;44;2;3;116;135;Sehr gut;Guter Wohnraum;Bezirk 7;0;2017;2022;5;139;269563
+2071;3;1 Ebene;1;1;1990;87;48;2;4;42;79;Gut;Guter Wohnraum;Bezirk 6;0;1990;2020;10;87;149157
+2065;3;1 Ebene;1;1;1969;115;65;3;3;65;88;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1969;2021;5;115;143694
+2329;2;1 Ebene;1;0;1934;67;0;0;3;0;67;Durchschnitt;Rohbau;Bezirk 12;0;1962;2020;1;67;81537
+2522;3;1 Ebene;1;1;1990;116;50;2;3;112;112;Gut;Guter Wohnraum;Bezirk 22;0;1990;2022;5;116;183459
+2600;2;1 Ebene;1;1;1971;115;26;1;4;61;86;Durchschnitt;Mittlerer Wohnraum;Bezirk 8;0;2018;2020;5;115;157132
+1797;2;1 Ebene;1;0;1935;67;24;1;5;0;53;Schlecht;Rohbau;Bezirk 20;0;1962;2021;2;67;85252
+2176;3;1 Ebene;1;0;1974;89;48;2;3;35;89;Durchschnitt;Freizeitraum;Bezirk 22;0;1974;2019;4;89;142832
+2094;3;1 Ebene;2;0;1960;112;48;2;4;25;34;Durchschnitt;Kein Wohnraum;Bezirk 8;0;2017;2019;7;112;136746
+2386;3;1 Ebene;2;1;1978;102;37;2;4;55;99;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1978;2019;10;102;152777
+1785;1;1 Ebene;1;1;2016;72;35;2;3;59;72;Gut;Guter Wohnraum;Bezirk 6;0;2016;2020;5;72;175424
+1892;3;1 Ebene;1;2;1969;114;46;2;4;23;114;Durchschnitt;Kein Wohnraum;Bezirk 20;0;1969;2022;6;114;160865
+2348;3;1 Ebene;1;1;1962;98;20;1;3;88;98;Durchschnitt;Mittlerer Wohnraum;Bezirk 8;0;1962;2020;8;98;136086
+1764;3;1 Ebene;2;0;1965;138;55;2;3;49;91;Durchschnitt;Freizeitraum;Bezirk 8;0;1965;2019;3;138;158023
+1603;2;1 Ebene;1;1;1938;78;16;1;5;25;75;Durchschnitt;Freizeitraum;Bezirk 12;0;2010;2020;7;78;117045
+1233;3;1 Ebene;1;1;1984;73;48;2;3;57;73;Durchschnitt;Mittlerer Wohnraum;Bezirk 6;0;2012;2019;9;73;149505
+964;3;2 Ebenen;3;1;2004;78;43;2;3;67;77;Gut;Guter Wohnraum;Bezirk 23;83;2004;2018;2;162;214241
+182;2;1 Ebene;1;1;1952;68;20;1;4;43;66;Durchschnitt;Kein Wohnraum;Bezirk 20;0;2004;2022;2;68;115702
+862;3;1 Ebene;1;0;1964;125;42;2;2;0;138;Durchschnitt;Rohbau;Bezirk 9;0;1964;2020;5;125;163005
+1623;6;1 Ebene;2;0;1977;146;48;2;3;0;146;Durchschnitt;Rohbau;Bezirk 15;0;1977;2020;11;146;169497
+1069;3;2 Ebenen;2;0;1988;52;28;1;4;0;22;Gut;Rohbau;Bezirk 13;58;1988;2020;6;110;113381
+2200;2;1 Ebene;2;0;2018;123;58;2;3;2;116;Gut;Guter Wohnraum;Bezirk 24;0;2019;2021;6;123;235631
+498;3;2 Ebenen;1;0;1932;58;44;2;5;0;58;Durchschnitt;Rohbau;Bezirk 8;43;2012;2021;8;101;130171
+1922;3;1 Ebene;1;1;1980;101;28;1;4;90;101;Gut;Mittlerer Wohnraum;Bezirk 8;0;1980;2022;6;101;151858
+2413;3;1 Ebene;2;1;2008;93;20;1;3;46;93;Gut;Mittlerer Wohnraum;Bezirk 6;0;2008;2019;7;93;166232
+453;3;1 Ebene;2;0;2020;124;76;3;3;0;124;Gut;Rohbau;Bezirk 6;0;2020;2021;6;124;265239
+1356;3;2 Ebenen;1;1;1937;75;18;1;5;0;75;Durchschnitt;Rohbau;Bezirk 4;39;2009;2021;5;114;133262
+974;1;1 Ebene;1;1;1933;41;17;1;3;35;41;Schlecht;Niedrige Qualität;Bezirk 20;0;1962;2018;6;41;57560
+1349;3;1 Ebene;2;1;1991;151;46;2;3;73;151;Gut;Mittlerer Wohnraum;Bezirk 19;0;1991;2020;3;151;217267
+1394;4;2 Ebenen;3;0;2016;97;72;3;3;0;97;Sehr gut;Rohbau;Bezirk 18;113;2017;2019;10;210;320542
+665;4;1 Ebene;2;1;1970;150;75;3;3;0;134;Durchschnitt;Rohbau;Bezirk 15;0;1970;2021;7;150;181426
+2349;2;2 Ebenen;1;0;1966;70;44;2;4;0;70;Durchschnitt;Rohbau;Bezirk 15;0;1966;2020;6;70;120213
+634;2;1 Ebene;1;1;1934;86;15;1;3;66;86;Schlecht;Niedrige Qualität;Bezirk 20;0;1962;2019;2;86;107313
+2051;3;1 Ebene;2;0;1963;136;22;1;2;0;0;0;0;Bezirk 14;0;1963;2018;5;136;129468
+31;3;2 Ebenen;1;0;1892;92;20;1;4;0;54;Schlecht;Rohbau;Bezirk 20;56;2003;2018;6;148;130172
+2327;3;2 Ebenen;1;0;1939;73;48;2;4;23;71;Durchschnitt;Freizeitraum;Bezirk 20;36;1962;2019;7;110;128834
+1193;3;1 Ebene;2;0;2016;130;45;2;3;0;128;Gut;Guter Wohnraum;Bezirk 18;0;2016;2022;3;130;255476
+1088;4;2 Ebenen;3;1;2006;110;68;3;3;32;109;Gut;Guter Wohnraum;Bezirk 16;101;2007;2018;6;211;323298
+2100;2;2 Ebenen;2;0;1953;72;56;2;4;30;61;Durchschnitt;Freizeitraum;Bezirk 20;0;1962;2019;5;117;145746
+1141;2;1 Ebene;2;0;2018;126;40;2;3;36;125;Gut;Guter Wohnraum;Bezirk 26;0;2018;2019;12;126;246169
+1309;3;2 Ebenen;3;1;2004;80;44;2;3;68;123;Gut;Guter Wohnraum;Bezirk 5;69;2005;2021;6;149;247014
+2266;4;1 Ebene;2;0;1988;142;44;2;4;0;142;Durchschnitt;Rohbau;Bezirk 19;0;1988;2019;6;142;175709
+1500;3;1 Ebene;1;0;1988;81;48;2;3;41;77;Durchschnitt;Mittlerer Wohnraum;Bezirk 6;0;1988;2018;7;81;148782
+1211;5;2 Ebenen;3;0;1979;108;43;2;4;0;79;Durchschnitt;Rohbau;Bezirk 19;116;2009;2021;5;224;225302
+1731;3;1 Ebene;1;1;1973;73;62;2;4;56;73;Durchschnitt;Guter Wohnraum;Bezirk 22;0;1973;2021;6;73;125660
+1259;2;1 Ebene;2;0;1982;100;40;2;3;0;100;Durchschnitt;Rohbau;Bezirk 15;0;1982;2021;3;100;152357
+1712;3;1 Ebene;1;0;2018;96;0;0;3;0;96;Gut;Rohbau;Bezirk 14;0;2018;2018;7;96;148102
+376;2;1 Ebene;1;0;1937;93;37;2;4;33;93;Durchschnitt;Kein Wohnraum;Bezirk 20;0;1992;2018;7;93;140765
+1808;3;1 Ebene;3;0;1984;117;49;2;4;0;58;Durchschnitt;Rohbau;Bezirk 19;62;1984;2021;8;180;196058
+1391;1;1 Ebene;1;1;1934;76;0;0;1;29;58;Schlecht;Kein Wohnraum;Bezirk 8;0;1962;2021;3;76;76954
+2012;3;1 Ebene;3;1;2006;138;45;2;3;108;136;Gut;Guter Wohnraum;Bezirk 23;0;2006;2020;4;138;251145
+187;2;1 Ebene;2;0;1961;95;44;2;3;0;0;0;0;Bezirk 8;0;2015;2021;5;95;117068
+479;1;2 Ebenen;1;0;1912;38;23;1;5;0;38;Schlecht;Rohbau;Bezirk 20;23;2010;2018;3;61;77949
+1317;4;2 Ebenen;3;0;2016;71;36;2;3;0;71;Gut;Rohbau;Bezirk 9;94;2017;2019;7;166;220238
+931;4;1 Ebene;2;0;1977;141;0;0;3;0;0;0;0;Bezirk 8;0;1977;2022;5;141;101352
+878;3;1 Ebene;1;1;1971;97;25;1;4;15;97;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;1971;2018;5;97;138021
+1873;4;2 Ebenen;1;1;1963;91;21;1;4;91;91;Durchschnitt;Niedrige Qualität;Bezirk 8;34;2006;2019;7;125;147476
+808;3;2 Ebenen;3;1;2009;54;42;2;4;45;53;Gut;Guter Wohnraum;Bezirk 6;56;2018;2019;5;111;175110
+2501;3;2 Ebenen;3;1;2007;65;36;2;3;18;65;Gut;Guter Wohnraum;Bezirk 9;75;2008;2020;6;140;187057
+2028;3;2 Ebenen;2;0;1927;65;44;2;5;28;56;Durchschnitt;Freizeitraum;Bezirk 20;69;1962;2018;4;135;147990
+451;4;2 Ebenen;3;1;2004;119;60;3;3;95;118;Gut;Guter Wohnraum;Bezirk 16;69;2005;2022;6;189;282445
+2519;3;2 Ebenen;2;0;1957;75;32;1;4;26;65;Schlecht;Freizeitraum;Bezirk 20;25;1962;2018;5;100;120362
+2443;3;1 Ebene;2;1;2004;99;34;2;4;47;98;Gut;Guter Wohnraum;Bezirk 9;0;2004;2021;7;99;166878
+1631;4;2 Ebenen;3;1;2007;174;56;3;3;69;172;Gut;Guter Wohnraum;Bezirk 16;100;2008;2022;3;275;392335
+848;3;1 Ebene;2;1;1977;107;42;2;5;53;103;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;2011;2020;10;107;169118
+1782;3;1 Ebene;2;1;1983;106;44;2;4;55;106;Durchschnitt;Mittlerer Wohnraum;Bezirk 19;0;2016;2020;10;106;180911
+1000;2;1 Ebene;2;0;1993;147;45;2;3;10;147;Gut;Niedrige Qualität;Bezirk 27;0;1993;2021;6;147;206964
+42;3;2 Ebenen;3;0;2009;75;43;2;3;30;74;Gut;Mittlerer Wohnraum;Bezirk 6;68;2010;2022;4;143;211013
+1048;2;1 Ebene;2;1;2015;102;47;2;3;70;99;Gut;Guter Wohnraum;Bezirk 23;0;2015;2021;8;102;191592
+2371;3;2 Ebenen;3;1;2010;94;49;2;4;82;94;Gut;Guter Wohnraum;Bezirk 6;84;2010;2018;6;178;274376
+2013;3;1 Ebene;2;0;2019;98;41;2;3;0;98;Gut;Rohbau;Bezirk 23;0;2019;2020;3;98;190722
+860;2;1 Ebene;1;0;1962;71;24;1;3;0;61;Durchschnitt;Rohbau;Bezirk 23;0;1962;2021;9;71;106772
+2440;3;2 Ebenen;2;1;1941;57;38;2;4;28;57;Durchschnitt;Freizeitraum;Bezirk 20;57;2002;2019;9;114;134822
+1832;2;2 Ebenen;2;1;1952;71;37;2;4;61;71;Durchschnitt;Mittlerer Wohnraum;Bezirk 7;61;1962;2021;2;133;153249
+1798;3;1 Ebene;2;0;1987;101;43;2;3;54;99;Durchschnitt;Mittlerer Wohnraum;Bezirk 19;0;1987;2021;8;101;159321
+2264;6;1 Ebene;2;0;1977;146;48;2;3;19;146;Durchschnitt;Niedrige Qualität;Bezirk 15;0;1977;2020;11;146;169497
+1098;3;2 Ebenen;3;0;2008;58;35;2;3;35;58;Gut;Freizeitraum;Bezirk 9;73;2008;2019;8;132;181402
+2483;6;1 Ebene;2;0;1973;153;0;0;3;0;153;Durchschnitt;Rohbau;Bezirk 15;0;1973;2020;11;153;144775
+234;3;1 Ebene;1;1;1971;88;22;1;4;84;88;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;1971;2021;7;88;131838
+1218;3;1 Ebene;1;1;1989;103;41;2;4;43;43;Gut;Mittlerer Wohnraum;Bezirk 22;0;2007;2018;7;103;144390
+1354;2;1 Ebene;2;0;2017;107;44;2;3;0;107;Gut;Rohbau;Bezirk 6;0;2018;2019;7;107;202729
+921;2;1 Ebene;1;1;1994;71;30;2;4;48;71;Durchschnitt;Mittlerer Wohnraum;Bezirk 14;0;2018;2019;6;71;150374
+32;1;1 Ebene;1;0;1952;52;26;1;3;0;0;0;0;Bezirk 20;0;1962;2021;10;52;69265
+580;3;1 Ebene;2;1;2018;96;41;2;3;4;96;Gut;Guter Wohnraum;Bezirk 23;0;2018;2021;6;96;184309
+2268;5;3 Ebenen;3;0;1952;105;34;2;4;20;78;Durchschnitt;Niedrige Qualität;Bezirk 7;105;1962;2021;7;210;230218
+706;3;1 Ebene;1;1;1981;103;28;1;3;81;103;Durchschnitt;Kein Wohnraum;Bezirk 19;0;1981;2021;8;103;144293
+529;2;1 Ebene;1;0;1932;70;31;1;3;9;38;Durchschnitt;Mittlerer Wohnraum;Bezirk 8;0;1962;2022;5;70;79743
+1385;3;2 Ebenen;1;1;1912;79;34;2;5;32;66;Durchschnitt;Freizeitraum;Bezirk 20;40;2016;2018;6;120;147170
+2427;3;1 Ebene;1;1;1979;88;40;2;3;74;88;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1979;2021;5;88;141983
+1120;2;1 Ebene;1;0;1983;72;58;1;4;27;72;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;1983;2019;6;72;122689
+2098;4;2 Ebenen;2;1;1940;112;48;2;2;52;95;Durchschnitt;Kein Wohnraum;Bezirk 21;55;1962;2021;12;168;185928
+1750;3;2 Ebenen;3;1;2015;79;52;2;4;41;79;Gut;Guter Wohnraum;Bezirk 6;75;2015;2022;1;155;240073
+785;3;1 Ebene;1;1;1987;78;30;1;4;19;72;Durchschnitt;Freizeitraum;Bezirk 14;0;1987;2019;3;78;139966
+2195;3;1 Ebene;2;0;2017;131;67;3;3;1;131;Gut;Guter Wohnraum;Bezirk 6;0;2018;2019;6;131;251614
+411;2;2 Ebenen;1;0;1942;77;13;1;3;27;77;Durchschnitt;Niedrige Qualität;Bezirk 20;28;1962;2019;3;106;103723
+900;3;2 Ebenen;1;0;1952;61;61;2;4;31;61;Durchschnitt;Mittlerer Wohnraum;Bezirk 12;42;1962;2019;5;103;126277
+1622;3;2 Ebenen;3;0;2010;81;39;2;3;0;79;Gut;Rohbau;Bezirk 9;57;2010;2018;6;138;190742
+37;4;3 Ebenen;2;0;1922;81;26;1;3;0;78;Durchschnitt;Rohbau;Bezirk 20;78;1962;2019;1;160;116010
+1184;4;2 Ebenen;2;0;1951;105;34;2;3;25;84;Durchschnitt;Freizeitraum;Bezirk 4;64;1962;2020;1;170;184307
+854;2;1 Ebene;1;1;1969;136;27;1;4;108;126;Durchschnitt;Kein Wohnraum;Bezirk 15;0;2009;2018;12;136;200715
+1314;3;1 Ebene;1;1;1972;97;46;1;4;33;86;Durchschnitt;Guter Wohnraum;Bezirk 8;0;1983;2021;7;97;142185
+797;3;2 Ebenen;2;0;1983;44;27;1;3;25;44;Durchschnitt;Freizeitraum;Bezirk 3;48;1983;2022;3;92;99933
+699;2;1 Ebene;1;1;1960;82;20;1;4;57;82;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;2014;2021;5;82;120533
+531;3;1 Ebene;2;1;1990;108;57;3;4;50;84;Durchschnitt;Mittlerer Wohnraum;Bezirk 6;0;1990;2018;4;108;152438
+2377;3;1 Ebene;2;0;2016;128;71;3;3;43;128;Gut;Kein Wohnraum;Bezirk 23;0;2016;2021;1;128;251614
+989;2;1 Ebene;1;1;1932;96;61;2;4;69;95;Durchschnitt;Freizeitraum;Bezirk 20;0;1962;2018;6;96;128484
+1196;3;1 Ebene;1;1;1975;84;26;1;3;78;78;Gut;Mittlerer Wohnraum;Bezirk 22;0;1975;2019;3;84;133439
+2010;3;2 Ebenen;1;0;1922;89;23;1;4;0;52;Durchschnitt;Rohbau;Bezirk 8;18;2005;2018;9;108;110837
+567;4;2 Ebenen;4;1;2015;143;71;3;3;120;140;Gut;Mittlerer Wohnraum;Bezirk 25;135;2015;2022;6;278;385542
+1235;2;1 Ebene;1;0;1968;74;26;1;3;0;0;0;0;Bezirk 20;0;1968;2020;12;74;93935
+1334;2;2 Ebenen;1;0;1951;75;20;1;4;0;75;Durchschnitt;Rohbau;Bezirk 4;0;1962;2019;7;75;112135
+2316;4;2 Ebenen;2;1;1970;122;33;2;4;59;122;Gut;Freizeitraum;Bezirk 5;59;2018;2019;6;182;260006
+546;4;2 Ebenen;3;0;2007;106;63;3;4;0;105;Gut;Rohbau;Bezirk 16;106;2007;2020;6;212;318232
+1061;3;1 Ebene;1;1;1978;92;41;2;3;43;87;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;1978;2018;6;92;142607
+690;3;1 Ebene;2;1;2000;120;48;2;3;85;118;Gut;Guter Wohnraum;Bezirk 26;0;2000;2021;3;120;194789
+1914;2;1 Ebene;1;0;1965;65;20;1;3;48;65;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1965;2020;4;65;113884
+1221;3;1 Ebene;1;1;1988;87;75;3;3;45;86;Durchschnitt;Guter Wohnraum;Bezirk 14;0;1988;2022;5;87;140704
+2364;3;2 Ebenen;3;1;2010;80;40;2;3;70;80;Gut;Guter Wohnraum;Bezirk 9;59;2010;2020;7;139;192399
+1105;3;2 Ebenen;3;1;2005;91;40;2;3;40;91;Gut;Guter Wohnraum;Bezirk 23;68;2006;2021;8;159;231257
+1299;3;1 Ebene;1;1;1974;77;21;1;4;11;77;Durchschnitt;Niedrige Qualität;Bezirk 22;0;1974;2021;10;77;124535
+98;3;1 Ebene;2;1;1974;88;22;1;5;56;88;Durchschnitt;Mittlerer Wohnraum;Bezirk 22;0;2022;2022;4;88;178651
+1694;2;1 Ebene;1;0;1967;85;57;2;3;0;85;Durchschnitt;Rohbau;Bezirk 15;0;1967;2021;11;85;136941
+336;4;2 Ebenen;3;1;1990;120;111;4;4;83;120;Gut;Mittlerer Wohnraum;Bezirk 19;120;1990;2020;12;241;273377
+1853;3;2 Ebenen;2;0;1984;44;22;1;3;32;44;Durchschnitt;Kein Wohnraum;Bezirk 3;48;1984;2018;10;92;100026
+1123;2;1 Ebene;2;0;1962;88;34;2;3;0;0;0;0;Bezirk 15;0;1962;2018;7;88;98380
+261;3;1 Ebene;2;0;1981;98;44;2;3;0;98;Durchschnitt;Rohbau;Bezirk 19;0;1981;2018;7;98;153206
+2139;2;1 Ebene;1;1;1968;87;26;1;4;65;85;Durchschnitt;Freizeitraum;Bezirk 15;0;1968;2018;8;87;129918
+53;2;1 Ebene;1;0;1937;88;27;2;4;0;88;Durchschnitt;Rohbau;Bezirk 12;0;2004;2020;7;88;133739
+992;2;1 Ebene;2;1;2018;112;46;2;3;73;112;Gut;Guter Wohnraum;Bezirk 18;0;2018;2021;12;112;212411
+625;4;1 Ebene;2;0;1982;140;78;3;3;12;140;Durchschnitt;Kein Wohnraum;Bezirk 14;0;1982;2018;3;140;165122
+957;3;2 Ebenen;3;0;2007;97;39;2;3;49;95;Gut;Guter Wohnraum;Bezirk 23;74;2007;2021;6;171;243163
+1659;1;1 Ebene;1;0;1948;68;0;0;2;0;22;Durchschnitt;Rohbau;Bezirk 4;0;1962;2021;1;68;67978
+533;3;2 Ebenen;3;1;2006;64;42;2;3;3;64;Gut;Niedrige Qualität;Bezirk 23;66;2006;2021;10;130;191320
+924;4;2 Ebenen;3;1;2016;96;74;3;3;82;96;Sehr gut;Guter Wohnraum;Bezirk 18;113;2016;2019;6;209;320542
+1671;3;1 Ebene;2;1;2011;121;56;2;3;47;121;Gut;Guter Wohnraum;Bezirk 6;0;2011;2021;9;121;234778
+1809;4;2 Ebenen;3;1;1992;98;41;2;4;58;71;Gut;Guter Wohnraum;Bezirk 19;102;1992;2021;8;200;211716
+534;3;1 Ebene;2;1;1976;126;36;2;4;22;85;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;1976;2018;4;126;158542
+1056;3;2 Ebenen;3;1;1974;161;37;2;5;54;122;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;46;2010;2018;9;208;265704
+2083;2;1 Ebene;1;0;1959;88;23;1;4;0;79;Durchschnitt;Rohbau;Bezirk 15;0;1962;2018;5;88;122670
+323;3;2 Ebenen;1;0;1932;50;16;1;3;0;50;Durchschnitt;Rohbau;Bezirk 12;50;1962;2021;7;101;99611
+801;3;1 Ebene;2;0;1979;103;27;1;3;59;103;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1979;2019;7;103;143297
+514;3;1 Ebene;2;0;2018;134;70;3;3;0;134;Gut;Rohbau;Bezirk 24;0;2018;2019;12;134;249789
+1158;3;1 Ebene;2;1;2016;143;54;2;3;116;143;Sehr gut;Guter Wohnraum;Bezirk 24;0;2017;2019;8;143;271460
+822;4;2 Ebenen;3;0;2015;104;55;3;3;0;100;Gut;Rohbau;Bezirk 18;96;2016;2019;5;201;279144
+1469;3;2 Ebenen;3;1;2010;72;45;2;3;54;72;Gut;Guter Wohnraum;Bezirk 6;76;2011;2019;3;149;238358
+713;3;2 Ebenen;2;0;1967;87;40;2;4;31;65;Durchschnitt;Guter Wohnraum;Bezirk 15;47;1979;2020;3;134;155249
+288;2;2 Ebenen;1;0;1941;72;48;2;5;0;70;Durchschnitt;Rohbau;Bezirk 4;0;2013;2019;7;72;125040
+970;4;2 Ebenen;3;1;2002;115;40;2;3;59;79;Gut;Mittlerer Wohnraum;Bezirk 16;112;2003;2020;6;228;216541
+258;3;1 Ebene;1;1;1975;88;22;1;4;70;88;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1975;2021;4;88;132362
+2366;4;1 Ebene;2;0;1958;101;0;0;4;0;101;Durchschnitt;Rohbau;Bezirk 8;0;1962;2019;7;101;110192
+689;3;2 Ebenen;3;0;2007;68;31;2;3;0;68;Gut;Rohbau;Bezirk 9;65;2008;2019;5;133;180875
+1165;2;1 Ebene;2;0;1963;104;34;2;3;0;0;0;0;Bezirk 7;0;1963;2019;6;104;108065
+2102;3;1 Ebene;2;0;1972;112;37;2;4;46;112;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1972;2021;8;112;159897
+102;3;2 Ebenen;1;0;1960;80;34;2;4;0;66;Durchschnitt;Rohbau;Bezirk 20;31;2017;2020;7;112;142909
+1955;3;2 Ebenen;2;0;1943;72;22;1;4;0;65;Gut;Rohbau;Bezirk 7;55;2012;2020;2;127;161664
+1643;3;2 Ebenen;3;1;2010;90;47;3;3;67;89;Gut;Mittlerer Wohnraum;Bezirk 6;73;2010;2018;5;164;260012
+2447;6;1 Ebene;2;0;1989;167;49;2;3;0;167;Gut;Rohbau;Bezirk 22;0;1989;2018;8;167;226681
+2561;3;2 Ebenen;1;0;1943;81;47;1;4;36;75;Durchschnitt;Niedrige Qualität;Bezirk 4;34;1962;2019;11;116;129174
+1168;2;1 Ebene;2;1;2018;140;71;2;3;133;140;Sehr gut;Guter Wohnraum;Bezirk 18;0;2019;2021;11;140;337883
+2259;3;1 Ebene;3;0;2015;64;34;2;3;0;32;Gut;Rohbau;Bezirk 9;54;2015;2019;10;118;176169
+1139;3;1 Ebene;2;1;2016;94;48;2;3;54;94;Durchschnitt;Guter Wohnraum;Bezirk 23;0;2016;2020;6;94;180667
+734;1;1 Ebene;2;1;2008;109;42;2;3;66;107;Gut;Guter Wohnraum;Bezirk 27;0;2008;2020;12;109;195199
+2074;3;1 Ebene;1;1;1974;83;53;2;3;3;83;Durchschnitt;Niedrige Qualität;Bezirk 22;0;1974;2018;7;83;137673
+1691;3;2 Ebenen;3;0;2010;73;46;2;3;0;73;Gut;Rohbau;Bezirk 6;77;2010;2021;3;151;239419
+1925;3;1 Ebene;2;1;2019;146;44;2;3;85;160;Gut;Guter Wohnraum;Bezirk 26;0;2019;2020;1;146;313818
+1597;3;3 Ebenen;2;0;1891;111;48;2;5;0;69;Durchschnitt;Rohbau;Bezirk 20;97;1999;2019;2;208;169181
+2318;2;2 Ebenen;2;1;2018;94;37;2;3;69;92;Gut;Guter Wohnraum;Bezirk 24;37;2019;2021;10;131;188752
+144;3;2 Ebenen;2;0;1964;163;34;2;4;56;96;Durchschnitt;Niedrige Qualität;Bezirk 15;45;2014;2022;3;209;248150
+1582;2;2 Ebenen;1;0;1992;43;38;2;4;0;43;Durchschnitt;Rohbau;Bezirk 2;43;1992;2021;5;87;119627
+1733;3;2 Ebenen;2;0;1982;46;0;0;4;0;46;Durchschnitt;Rohbau;Bezirk 13;46;1982;2018;6;92;88955
+36;3;1 Ebene;2;0;1985;105;44;2;4;77;105;Durchschnitt;Mittlerer Wohnraum;Bezirk 19;0;1985;2019;9;105;160971
+444;3;1 Ebene;2;0;2020;119;53;2;3;0;119;Gut;Rohbau;Bezirk 24;0;2020;2021;5;119;232278
+99;3;1 Ebene;2;1;2019;156;44;2;3;115;156;Sehr gut;Guter Wohnraum;Bezirk 6;0;2020;2021;4;156;306969
+724;3;2 Ebenen;2;0;2016;82;32;2;3;0;82;Gut;Rohbau;Bezirk 8;62;2016;2018;5;145;171509
+2462;3;2 Ebenen;2;0;1950;70;21;1;3;70;70;Durchschnitt;Niedrige Qualität;Bezirk 21;37;1962;2021;7;107;121490
+888;4;2 Ebenen;2;0;1960;78;34;2;3;18;78;Durchschnitt;Freizeitraum;Bezirk 15;84;1962;2019;7;163;167231
+2594;2;2 Ebenen;2;1;1952;82;21;1;4;36;61;Durchschnitt;Freizeitraum;Bezirk 7;28;1962;2021;6;111;121805
+503;4;2 Ebenen;2;0;1950;108;34;2;4;0;108;Durchschnitt;Rohbau;Bezirk 12;0;1970;2020;11;167;186579
+732;2;1 Ebene;3;0;1978;160;49;2;4;20;128;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;2014;2022;6;160;253858
+1745;3;2 Ebenen;2;0;1982;46;24;1;3;21;46;Durchschnitt;Freizeitraum;Bezirk 13;46;1982;2018;4;92;94366
+874;2;1 Ebene;2;2;2016;139;44;2;3;132;135;Sehr gut;Guter Wohnraum;Bezirk 7;0;2017;2018;12;139;269563
+1624;2;1 Ebene;1;1;1966;141;44;2;4;94;115;Gut;Kein Wohnraum;Bezirk 5;0;2006;2020;3;141;201174
+159;2;1 Ebene;1;1;1964;97;26;1;4;17;83;Sehr gut;Niedrige Qualität;Bezirk 8;0;1964;2018;9;97;136346
+664;3;2 Ebenen;2;0;1942;93;31;2;4;0;59;Durchschnitt;Rohbau;Bezirk 7;59;1971;2018;11;153;171430
+1381;3;2 Ebenen;1;0;1962;65;76;2;3;52;67;Durchschnitt;Freizeitraum;Bezirk 15;31;1962;2021;12;96;133979
+1697;3;2 Ebenen;3;1;2011;80;49;2;3;75;80;Gut;Guter Wohnraum;Bezirk 6;70;2012;2018;9;151;247403
+1859;2;2 Ebenen;1;0;1938;48;24;1;4;0;48;Durchschnitt;Rohbau;Bezirk 20;45;1962;2020;8;94;108889
+455;5;2 Ebenen;3;1;1985;109;48;2;3;71;80;Gut;Mittlerer Wohnraum;Bezirk 13;104;1985;2018;6;214;210681
+2215;3;1 Ebene;1;1;1990;87;42;2;3;38;38;Gut;Guter Wohnraum;Bezirk 22;0;1990;2021;6;87;129679
+2360;3;1 Ebene;2;0;2019;136;75;3;3;0;133;Gut;Rohbau;Bezirk 18;0;2019;2021;7;136;296768
+2563;2;1 Ebene;1;1;1969;111;64;1;4;73;84;Durchschnitt;Kein Wohnraum;Bezirk 15;0;2012;2021;5;111;157883
+1024;3;2 Ebenen;3;1;2014;92;49;2;3;79;90;Gut;Guter Wohnraum;Bezirk 6;76;2014;2018;11;169;265206
+2097;3;2 Ebenen;1;0;1922;58;18;1;4;0;58;Durchschnitt;Rohbau;Bezirk 20;58;2005;2018;10;116;115031
+2506;3;1 Ebene;2;1;2003;143;36;2;3;117;142;Gut;Mittlerer Wohnraum;Bezirk 14;0;2003;2020;7;143;222260
+1206;2;1 Ebene;2;1;2017;145;43;2;3;101;145;Sehr gut;Guter Wohnraum;Bezirk 25;0;2017;2018;8;145;279035
+912;3;1 Ebene;1;0;1966;95;0;0;3;0;0;0;0;Bezirk 8;0;1966;2018;4;95;84312
+1457;4;2 Ebenen;2;0;1941;95;38;2;4;44;86;Durchschnitt;Mittlerer Wohnraum;Bezirk 7;46;1962;2018;2;142;156678
+1903;4;2 Ebenen;2;1;1976;67;37;2;4;57;66;Durchschnitt;Guter Wohnraum;Bezirk 15;69;1976;2020;6;136;155467
+1484;3;1 Ebene;2;0;1978;98;40;2;4;62;98;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1978;2021;11;98;152357
+241;2;1 Ebene;1;1;1983;73;48;2;4;63;65;Gut;Guter Wohnraum;Bezirk 22;0;2002;2019;5;73;134861
+2297;2;1 Ebene;2;1;2019;165;60;3;3;116;165;Sehr gut;Guter Wohnraum;Bezirk 18;0;2019;2020;5;165;392353
+596;2;1 Ebene;1;1;1977;77;48;2;5;50;77;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;0;2020;2020;12;77;158994
+2135;3;1 Ebene;1;0;1967;82;25;1;4;55;82;Durchschnitt;Freizeitraum;Bezirk 15;0;1967;2022;6;82;120336
+2390;3;2 Ebenen;3;0;1982;46;0;0;5;30;46;Durchschnitt;Guter Wohnraum;Bezirk 13;46;2019;2020;3;92;123169
+359;4;2 Ebenen;2;0;1932;76;18;1;4;29;67;Schlecht;Niedrige Qualität;Bezirk 7;76;1962;2018;7;153;142697
+459;3;2 Ebenen;2;0;2003;53;48;2;3;38;53;Gut;Freizeitraum;Bezirk 14;55;2003;2022;3;108;159734
+786;3;2 Ebenen;2;0;1932;76;48;1;4;54;54;Durchschnitt;Freizeitraum;Bezirk 12;37;1962;2018;9;113;120427
+2357;4;2 Ebenen;3;0;1912;98;29;2;5;0;91;Durchschnitt;Rohbau;Bezirk 20;54;1962;2019;5;152;143327
+2559;4;3 Ebenen;2;1;1922;107;43;2;4;88;103;Durchschnitt;Freizeitraum;Bezirk 20;87;2010;2019;11;194;197672
+670;3;1 Ebene;2;1;1986;111;41;2;4;56;88;Durchschnitt;Mittlerer Wohnraum;Bezirk 19;0;2011;2018;1;111;165693
+2340;3;2 Ebenen;3;0;2013;109;48;2;3;0;106;Gut;Rohbau;Bezirk 6;74;2013;2020;6;183;288325
+2498;2;1 Ebene;1;1;1992;79;57;2;3;79;79;Gut;Guter Wohnraum;Bezirk 20;0;1992;2019;8;79;148802
+1544;2;2 Ebenen;2;0;1943;86;39;2;3;0;80;Durchschnitt;Rohbau;Bezirk 20;63;1962;2020;4;150;164976
+202;3;1 Ebene;2;0;1975;117;30;1;4;32;117;Durchschnitt;Freizeitraum;Bezirk 15;0;1975;2021;6;117;152936
+606;3;1 Ebene;1;1;1990;73;28;1;5;54;73;Durchschnitt;Mittlerer Wohnraum;Bezirk 6;0;2017;2021;7;73;147218
+1983;3;1 Ebene;1;1;1975;89;26;1;3;52;89;Durchschnitt;Kein Wohnraum;Bezirk 19;0;1975;2019;2;89;133672
+1905;2;1 Ebene;1;0;1987;71;26;1;4;0;71;Gut;Rohbau;Bezirk 17;0;1987;2022;6;71;141279
+712;3;1 Ebene;1;1;1968;89;24;1;3;49;89;Durchschnitt;Kein Wohnraum;Bezirk 15;0;1968;2019;6;89;130937
+1020;3;1 Ebene;2;1;2019;144;71;3;3;109;144;Gut;Guter Wohnraum;Bezirk 24;0;2019;2021;3;144;306372
+276;4;2 Ebenen;3;1;2012;124;68;3;3;99;123;Gut;Guter Wohnraum;Bezirk 16;103;2012;2021;9;228;330212
+2482;4;2 Ebenen;2;0;1907;87;0;0;4;0;81;Durchschnitt;Rohbau;Bezirk 12;81;2018;2019;6;169;137027
+439;3;2 Ebenen;2;1;1948;93;48;2;5;53;67;Schlecht;Mittlerer Wohnraum;Bezirk 20;31;2001;2018;4;124;144514
+207;4;2 Ebenen;2;0;1974;74;22;1;3;45;73;Durchschnitt;Mittlerer Wohnraum;Bezirk 15;79;1974;2019;7;154;150771
