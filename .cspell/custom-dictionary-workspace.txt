@@ -1,3 +1,10 @@
 # Custom Dictionary Words
+Ausreißererkennung
+Labelencoding
+Merkmalsausprägungen
+Regressionslinie
+Regressionsverfahren
 Scatterplot
+Scatterplots
+Validierungsdaten
 xlabel
